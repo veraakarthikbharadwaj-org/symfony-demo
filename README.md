@@ -1,4 +1,4 @@
-Symfony Demo Application - try 3
+Symfony Demo Application - try 4
 ========================
 
 The "Symfony Demo Application" is a reference application created to show how
